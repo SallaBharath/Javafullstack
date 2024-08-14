@@ -1,0 +1,28 @@
+1) Write a program to add 8 to the number 2345 and then divide it by 3. Now, the modulus of the quotient is taken with 5 and then multiply the  resultant value by 5. Display the final result.(Using Assignment Operators)
+
+2) Greatest of four numbers using nested ternary operator
+
+3) Consider the following code snippet:
+   int i = 10;
+   int n = i++%5;
+  i) What are the values of i and n after the code is executed?
+  ii)What are the final values of i and n if instead of using the postfix increment operator (i++), you use the prefix version (++i))?
+
+4) Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
+
+5) Write a Java program that takes five numbers as input to calculate and print the average of the numbers
+
+6) Assign values of variables 'a' and 'b' as 55 and 70 respectively and then check if both the conditions 'a < 50' and 'a < b' are true
+
+7) What is the output of the following code snippet & Explain? 
+       int x = 10;   
+       int y = 20;   
+       int z = x++ + ++y;   
+       System.out.println(z);  
+
+8)  Write a Java program to calculate the area of a circle given its radius? 
+9)  Write a Java program to compare two integers using relational operators and Write the results? 
+10) Write a Java program to compare two characters and print the results? 
+11) Write a Java program to check if a given year is a leap year using the ternary operator? 
+12) Write a Java program to determine the sign of a given number (positive, negative, or zero) using the ternary operator?
+13) Write a Java function to swap two variables without using a third variable?
